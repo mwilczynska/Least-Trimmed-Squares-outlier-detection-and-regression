@@ -5,3 +5,5 @@ Algorithm employs the Least-Trimmed Squares outlier detection method first publi
 Rousseeuw P. J., 1984, J. Am. Statist. Assoc., 79, 871
 
 ![alt text](https://root.cern.ch/root/html530/tutorials/fit/fitLinearRobust.C_0.png)
+
+Image credit: https://root.cern.ch
